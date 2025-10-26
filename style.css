@@ -1,0 +1,27 @@
+/* src/style.css */
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f8f9fa;
+}
+
+nav {
+  background-color: #007bff;
+  padding: 10px;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  padding: 20px;
+}
